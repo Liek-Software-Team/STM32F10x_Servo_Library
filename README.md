@@ -5,3 +5,4 @@ The library is still ongoing and is released with its notes as updates become av
 # Update notes
 Version 1.7.1
 Suitable for SG90 model servo motors. Functions that provide servo control with UART have been added and their configurations will be added later.
+  
