@@ -3,6 +3,9 @@
 @version: 2.1
 @date: 16.03.2021
 
+-Servo_Detach function is added.
+-Delay function is enhanced for real time delay. ( Servo_Delay(1000)= 1 second )
+
 ***************************/
 
 #include "stm32f10x.h"  						                   
