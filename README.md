@@ -4,7 +4,7 @@ The library is still ongoing and is released with its notes as updates become av
 
 # Update notes
 Version 2.2
-Servo_Config and Servo_Degree functions have arranged to work based on register.
+Servo_Config and Servo_Degree functions have arranged to work based on registers.
 
 Version 2.1
 Servo_Detach function is added and delay function is enhanced for real time delay. ( Servo_Delay(1000)= 1 second )
