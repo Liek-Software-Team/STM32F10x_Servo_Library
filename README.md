@@ -15,4 +15,3 @@ Servo motor adjustments are configured as struct. In this way, more than one ser
 Version 1.7.1
 Suitable for SG90 model servo motors. Functions that provide servo control with UART have been added and their configurations will be added later.
           
-.
