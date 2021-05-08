@@ -9,7 +9,6 @@
 
 uint32_t counter=0;
 
-
 void systemClockEnable(void){
 	SystemCoreClockUpdate();
 	SysTick_Config(SystemCoreClock/1000);
@@ -26,7 +25,6 @@ void Servo_Delay(uint64_t time){
 	counter=time;
 	while(counter);
 }
-
 
 void Servo_Config(Servo port_pin){
 	if(port_pin.port == 'A' && port_pin.pin == 0){
